@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there I'm André👋
 
-<!--
-**AndreNovaisBrito/AndreNovaisBrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a project to track government tax 
+- 🌱 I’m currently learning about server management in my [[home-lab]]
+- 👯 I’m looking to collaborate on developer tools
+- 💬 Ask me about anything
+- 📫 How to reach me: Contact me by e-mail at novaisandre.dev@gmail.com
+- ⚡ Fun fact: I'm a learning addict
+    -   Do Flips
+    -   Spin a Pen
+    -   Do a Handstand
+    -   Solve a Rubiks cube very fast
+    -   Play Fighting Games very well
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Mail](mailto:novaisandre.dev@gmail.com)  
+- [GitHub](https://github.com/AndreNovaisBrito/)  
+- [LinkedIn](https://www.linkedin.com/in/andre-novais-brito-backend/)
+
