@@ -15,6 +15,5 @@
 ### Connect with me:
 
 - [Mail](mailto:novaisandre.dev@gmail.com)  
-- [GitHub](https://github.com/AndreNovaisBrito/)  
 - [LinkedIn](https://www.linkedin.com/in/andre-novais-brito-backend/)
 
