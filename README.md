@@ -1,7 +1,7 @@
 ## Hi there I'm André👋
 
 - 🔭 I’m currently working on a project to track government tax 
-- 🌱 I’m currently learning about server management in my [[home-lab]]
+- 🌱 I’m currently learning about server management in my home-lab
 - 👯 I’m looking to collaborate on developer tools
 - 💬 Ask me about anything
 - 📫 How to reach me: Contact me by e-mail at novaisandre.dev@gmail.com
