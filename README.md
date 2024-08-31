@@ -16,4 +16,4 @@
 
 - [Mail](mailto:novaisandre.dev@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/andre-novais-brito-backend/)
-- [Portfolio](https://www.github.com/AndreNovaisBrito/my_portfolio)
+- [Portfolio](https://andrenovaisbrito.github.io/my_portfolio/)
