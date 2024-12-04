@@ -5,12 +5,6 @@
 - 👯 I’m looking to collaborate on low level programming
 - 💬 Ask me about anything
 - 📫 How to reach me: Contact me by e-mail at novaisandre.dev@gmail.com
-- ⚡ Fun fact: I'm a learning addict
-    -   Do Flips
-    -   Spin a Pen
-    -   Do a Handstand
-    -   Solve a Rubiks cube very fast
-    -   Play Fighting Games very well
 
 ### Connect with me:
 
